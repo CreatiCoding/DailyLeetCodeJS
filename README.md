@@ -8,7 +8,9 @@
 
 ## 리스트
 
-[1일차] 2021년 2월 6일: https://github.com/CreatiCoding/DailyLeetCodeJS/blob/main/day-01.md
+[01일차] 2021년 2월 6일: https://github.com/CreatiCoding/DailyLeetCodeJS/blob/main/day-01.md
+
+[02일차] 2021년 2월 7일: https://github.com/CreatiCoding/DailyLeetCodeJS/blob/main/day-02.md
 
 ### DailyLeetCodeJS 챌린지 리스트
 
