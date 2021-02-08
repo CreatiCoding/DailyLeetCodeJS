@@ -28,6 +28,8 @@ inorder = [9,3,15,20,7]
    15   7
 ```
 
+</details>
+
 ### review
 
 `preorder`, `inorder`가 주어지면 Tree를 재구축하는 내용인데, 역으로 구현하려니 굉장히 까다로웠다.
