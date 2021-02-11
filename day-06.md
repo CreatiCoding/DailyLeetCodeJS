@@ -5,7 +5,7 @@ https://leetcode.com/problems/path-sum-ii/
 <details>
 <summary>문제내용보기</summary>
 
-### 이진 트리의 ` root``와 정수  `targetSum`이 주어지면, 각 경로의 합이 `targetSum`과 같은 모든 루트 대 리프 경로를 반환합니다.
+### 이진 트리의 `root`와 정수  `targetSum`이 주어지면, 각 경로의 합이 `targetSum`과 같은 모든 루트 대 리프 경로를 반환합니다.
 
 `leaf`은 아이가 없는 노드다.
 
