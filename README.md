@@ -26,6 +26,8 @@
 
 [09일차] 2021년 2월 14일: https://github.com/CreatiCoding/DailyLeetCodeJS/blob/main/day-09.md
 
+[10일차] 2021년 2월 15일: https://github.com/CreatiCoding/DailyLeetCodeJS/blob/main/day-10.md
+
 ### DailyLeetCodeJS 챌린지 리스트
 
 > 함께 하실분 구합니다
