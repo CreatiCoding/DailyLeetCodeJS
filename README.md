@@ -8,27 +8,27 @@
 
 ## 리스트
 
-[01일차] 2021년 2월 6일: /DailyLeetCodeJS/#day-01.md
+[01일차] 2021년 2월 6일: [DAY-01](/DailyLeetCodeJS/#DAY-01.md)
 
-[02일차] 2021년 2월 7일: /DailyLeetCodeJS/#day-02.md
+[02일차] 2021년 2월 7일: [DAY-02](/DailyLeetCodeJS/#DAY-02.md)
 
-[03일차] 2021년 2월 8일: /DailyLeetCodeJS/#day-03.md
+[03일차] 2021년 2월 8일: [DAY-03](/DailyLeetCodeJS/#DAY-03.md)
 
-[04일차] 2021년 2월 9일: /DailyLeetCodeJS/#day-04.md
+[04일차] 2021년 2월 9일: [DAY-04](/DailyLeetCodeJS/#DAY-04.md)
 
-[05일차] 2021년 2월 10일: /DailyLeetCodeJS/#day-05.md
+[05일차] 2021년 2월 10일: [DAY-05](/DailyLeetCodeJS/#DAY-05.md)
 
-[06일차] 2021년 2월 11일: /DailyLeetCodeJS/#day-06.md
+[06일차] 2021년 2월 11일: [DAY-06](/DailyLeetCodeJS/#DAY-06.md)
 
-[07일차] 2021년 2월 12일: /DailyLeetCodeJS/#day-07.md
+[07일차] 2021년 2월 12일: [DAY-07](/DailyLeetCodeJS/#DAY-07.md)
 
-[08일차] 2021년 2월 13일: /DailyLeetCodeJS/#day-08.md
+[08일차] 2021년 2월 13일: [DAY-08](/DailyLeetCodeJS/#DAY-08.md)
 
-[09일차] 2021년 2월 14일: /DailyLeetCodeJS/#day-09.md
+[09일차] 2021년 2월 14일: [DAY-09](/DailyLeetCodeJS/#DAY-09.md)
 
-[10일차] 2021년 2월 15일: /DailyLeetCodeJS/#day-10.md
+[10일차] 2021년 2월 15일: [DAY-10](/DailyLeetCodeJS/#DAY-10.md)
 
-[11일차] 2021년 2월 16일: /DailyLeetCodeJS/#day-11.md
+[11일차] 2021년 2월 16일: [DAY-11](/DailyLeetCodeJS/#DAY-11.md)
 
 ### DailyLeetCodeJS 챌린지 리스트
 
