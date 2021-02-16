@@ -8,27 +8,27 @@
 
 ## 리스트
 
-[01일차] 2021년 2월 6일: https://www.creco-home.site/DailyLeetCodeJS/#day-01.md
+[01일차] 2021년 2월 6일: /DailyLeetCodeJS/#day-01.md
 
-[02일차] 2021년 2월 7일: https://www.creco-home.site/DailyLeetCodeJS/#day-02.md
+[02일차] 2021년 2월 7일: /DailyLeetCodeJS/#day-02.md
 
-[03일차] 2021년 2월 8일: https://www.creco-home.site/DailyLeetCodeJS/#day-03.md
+[03일차] 2021년 2월 8일: /DailyLeetCodeJS/#day-03.md
 
-[04일차] 2021년 2월 9일: https://www.creco-home.site/DailyLeetCodeJS/#day-04.md
+[04일차] 2021년 2월 9일: /DailyLeetCodeJS/#day-04.md
 
-[05일차] 2021년 2월 10일: https://www.creco-home.site/DailyLeetCodeJS/#day-05.md
+[05일차] 2021년 2월 10일: /DailyLeetCodeJS/#day-05.md
 
-[06일차] 2021년 2월 11일: https://www.creco-home.site/DailyLeetCodeJS/#day-06.md
+[06일차] 2021년 2월 11일: /DailyLeetCodeJS/#day-06.md
 
-[07일차] 2021년 2월 12일: https://www.creco-home.site/DailyLeetCodeJS/#day-07.md
+[07일차] 2021년 2월 12일: /DailyLeetCodeJS/#day-07.md
 
-[08일차] 2021년 2월 13일: https://www.creco-home.site/DailyLeetCodeJS/#day-08.md
+[08일차] 2021년 2월 13일: /DailyLeetCodeJS/#day-08.md
 
-[09일차] 2021년 2월 14일: https://www.creco-home.site/DailyLeetCodeJS/#day-09.md
+[09일차] 2021년 2월 14일: /DailyLeetCodeJS/#day-09.md
 
-[10일차] 2021년 2월 15일: https://www.creco-home.site/DailyLeetCodeJS/#day-10.md
+[10일차] 2021년 2월 15일: /DailyLeetCodeJS/#day-10.md
 
-[11일차] 2021년 2월 16일: https://www.creco-home.site/DailyLeetCodeJS/#day-11.md
+[11일차] 2021년 2월 16일: /DailyLeetCodeJS/#day-11.md
 
 ### DailyLeetCodeJS 챌린지 리스트
 
