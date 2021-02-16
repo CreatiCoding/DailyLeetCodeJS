@@ -1,4 +1,4 @@
-# DailyLeetCodeJS
+# [DailyLeetCodeJS](https://www.creco-home.site/DailyLeetCodeJS/)
 
 > 50일 도전! 릿코드 자바스크립트!
 
