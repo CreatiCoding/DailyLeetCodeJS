@@ -101,3 +101,9 @@ var canFinish = function (numCourses, p) {
   return true;
 };
 ```
+
+### ref
+
+참고하면 좋을 해법코드
+
+https://leetcode.com/problems/course-schedule/discuss/146325/JavaScript-DFS
