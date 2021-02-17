@@ -1,4 +1,4 @@
-# [DailyLeetCodeJS](https://www.creco-home.site/DailyLeetCodeJS/)
+# [DailyLeetCodeJS](https://creco.today/leetcode)
 
 > 50일 도전! 릿코드 자바스크립트!
 
@@ -29,6 +29,8 @@
 [10일차] 2021년 2월 15일: [DAY-10](https://creco.today/leetcode/day-10.md)
 
 [11일차] 2021년 2월 16일: [DAY-11](https://creco.today/leetcode/day-11.md)
+
+[12일차] 2021년 2월 17일: [DAY-12](https://creco.today/leetcode/day-12.md)
 
 ### DailyLeetCodeJS 챌린지 리스트
 
