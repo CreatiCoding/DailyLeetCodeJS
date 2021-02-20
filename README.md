@@ -32,7 +32,7 @@
 
 [12일차] 2021년 2월 17일: [DAY-12](https://creco.today/leetcode/day-12.md)
 
-[13일차] 2021년 2월 18일: [DAY-12](https://creco.today/leetcode/day-13.md)
+[13일차] 2021년 2월 18일: [DAY-13](https://creco.today/leetcode/day-13.md)
 
 ### DailyLeetCodeJS 챌린지 리스트
 
