@@ -7,8 +7,6 @@ https://leetcode.com/problems/longest-palindromic-substring/
 
 Given a string `s`, return the longest palindromic substring in `s`.
 
-(대략 방향없는 그래프를 트리로 볼때, 가장 작은 높이를 갖는 트리의 갯수를 구하라는 문제)
-
 #### 예시 1:
 
 ```
