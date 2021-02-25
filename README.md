@@ -36,9 +36,9 @@
 
 [14일차] 2021년 2월 19일: [DAY-14](https://creco.today/leetcode/day-14.md)
 
-[15일차] 2021년 2월 20일: [DAY-14](https://creco.today/leetcode/day-15.md)
+[15일차] 2021년 2월 20일: [DAY-15](https://creco.today/leetcode/day-15.md)
 
-[16일차] 2021년 2월 21일: [DAY-14](https://creco.today/leetcode/day-16.md)
+[16일차] 2021년 2월 21일: [DAY-16](https://creco.today/leetcode/day-16.md)
 
 ### DailyLeetCodeJS 챌린지 리스트
 
