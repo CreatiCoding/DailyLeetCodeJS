@@ -34,6 +34,8 @@
 
 [13일차] 2021년 2월 18일: [DAY-13](https://creco.today/leetcode/day-13.md)
 
+[14일차] 2021년 2월 19일: [DAY-14](https://creco.today/leetcode/day-14.md)
+
 ### DailyLeetCodeJS 챌린지 리스트
 
 > 함께 하실분 구합니다
